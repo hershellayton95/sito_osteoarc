@@ -18,9 +18,9 @@ export default {
             <p>Svolgiamo attività di ricerca osteologica su campo e laboratorio e <b>la nostra sede è a disposizione dei soci</b> che vogliono approfondire le loro conoscenze, studiare e realizzare progetti legati all'osteologia.</p>
             <p>Le nostre <b>attività didattiche</b> si rivolgono ai nostri soci siano essi dei professionisti, delle scuole o dei semplici appassionati, sia adulti chee bambini e mirano a sviluppare la consapevolezza del valore delle <b>ossa</b> come bene culturale mediante l'applicazione delle Scienze Naturali come tecniche di indagine, sensibilizzazione alla storia del territorio e della ricerca.</p>
             <p>Per le nostre attività abbiamo il supporto di numerosi Enti, tra cui Musei, Università e Soprintendenze Archeologia, Belle Arti e Paesaggio.</p>
-            <p>Siamo iscritti al registro provinciale di Varese ma operiamo anche in altre aree in particolare in Lombardia, Piemonte, Veneto ed Emilia Romagna ma anche sul territorio nazionale <b>(Iscrizione al Registro Volontariato, senza scopo di lucro, promozione sociale – Registro Provinciale di Varese - del 27/11/2020 n° 388)</b></p>
-            <p><a>SCARICA LA PRESENTAZIONE</a></p>
-            <p><a>SCARICA LO STATUTO</a></p>
+            <p><b>Osteoarc</b> ha sede a <b>Gornate Olona (VA)</b> opera sul territorio nazionale, in particolare in Lombardia, in Piemonte, in Veneto ed in Emilia Romagna</p>
+            <p>SCARICA LA PRESENTAZIONE</p>
+            <p>SCARICA LO STATUTO <a href="/statuto_osteoarc-aps.pdf" target="_blank">QUI</a></p>
         </div>
     </div>
     <div class="row fs-6 mb-4">
